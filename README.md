@@ -1,2 +1,0 @@
-# shooting_room
-vr
